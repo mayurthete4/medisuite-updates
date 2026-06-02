@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.2",
+  "latest_version": "1.0.4",
   "download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/medisuite_latest_amd64.deb",
-  "release_notes": "One-click updater reliability fixes and restart improvements"
+  "release_notes": "Stability, auto-restart, and upgrade compatibility improvements"
 }
