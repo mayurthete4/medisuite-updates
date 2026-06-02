@@ -1,5 +1,5 @@
 {
-  "latest_version": "1.0.4",
+  "latest_version": "1.0.5",
   "download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/medisuite_latest_amd64.deb",
-  "release_notes": "Stability, auto-restart, and upgrade compatibility improvements"
+  "release_notes": "Release v1.0.5: updated Debian package assets."
 }
