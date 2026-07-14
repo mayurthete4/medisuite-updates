@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.1.0",
+  "latest_version": "1.2.0",
   "download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/medisuite_latest_amd64.deb",
   "windows_download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/MediSuiteSetup_latest.exe",
   "android_download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/medisuite_latest.apk",
-  "release_notes": "Release v1.1.0: Android mobile app, developer status dashboard, invoice stock validation, mobile nav dropdown fix"
+  "release_notes": "Release v1.2.0: Android mobile app, developer status dashboard, invoice stock validation, mobile nav dropdown fix, in-app Android update install"
 }
