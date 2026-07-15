@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.5.0",
+  "latest_version": "1.6.0",
   "download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/medisuite_latest_amd64.deb",
   "windows_download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/MediSuiteSetup_latest.exe",
   "android_download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/medisuite_latest.apk",
-  "release_notes": "Release v1.5.0: UPI QR payments on invoices, real PDF invoice export, TOTP 2FA, native appointment reminder notifications"
+  "release_notes": "Release v1.6.0: one-tap WhatsApp share of customer history PDF (Android), invoice barcodes"
 }
