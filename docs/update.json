@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.7.1",
+  "latest_version": "1.8.0",
   "download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/medisuite_latest_amd64.deb",
   "windows_download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/MediSuiteSetup_latest.exe",
   "android_download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/medisuite_latest.apk",
-  "release_notes": "Release v1.7.1: native low-stock alerts, cloud backup timeout/UX fix, fixed a false 'signup failed' message"
+  "release_notes": "Release v1.8.0: freemium plans (Basic/Premium/Platinum), network access QR, cloud sync-on-login, offline recovery key"
 }
