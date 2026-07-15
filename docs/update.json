@@ -1,7 +1,7 @@
 {
-  "latest_version": "1.6.1",
+  "latest_version": "1.7.0",
   "download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/medisuite_latest_amd64.deb",
   "windows_download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/MediSuiteSetup_latest.exe",
   "android_download_url": "https://github.com/mayurthete4/medisuite-updates/releases/latest/download/medisuite_latest.apk",
-  "release_notes": "Release v1.6.1: fix - UPI QR now also embedded in the downloaded invoice PDF, not just the web page"
+  "release_notes": "Release v1.7.0: PDF styling overhaul, fixed barcode distortion, full pending-balance UPI QR on customer history"
 }
